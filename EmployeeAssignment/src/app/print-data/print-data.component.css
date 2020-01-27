@@ -1,0 +1,11 @@
+body{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+table, th, td, tr {
+  text-align: center;
+  border: 1px solid black;
+}
